@@ -4,13 +4,13 @@
 
 _taken from this [repo](https://github.com/pg6301-fall2022/web_development_and_api_design)_
 
-- [ ] Exercise 01
+- [x] Exercise 01
   - A quiz game with pure html/js/css, no libraries
-  - [ ] Create three files: 
-    - [ ] `index.html`
-    - [ ] `code.js`
-    - [ ] `style.css`
-  - [ ] In `code.js` create an array of quizzes with questions of your choice
+  - [x] Create three files: 
+    - [x] `index.html`
+    - [x] `code.js`
+    - [x] `style.css`
+  - [x] In `code.js` create an array of quizzes with questions of your choice
     - _A quiz should be composed of: a question, 4 possible answers and an integer representing the index of the correct
       answer_
     - When a user open index.html, one random quiz should be displayed.
